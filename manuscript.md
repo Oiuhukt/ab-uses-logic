@@ -1,14 +1,14 @@
 ---
-title: Manuscript Title
+title: On the uses and abuses of logic
 keywords:
-- markdown
-- publishing
-- manubot
-lang: en-US
+- Logic
+- Natural language
+- Implicature
+lang: es
 date-meta: '2023-11-23'
 author-meta:
-- John Doe
-- Jane Roe
+- Abraham Olivetti
+- Mar Mac Donald
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +16,34 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="On the uses and abuses of logic" />
+  <meta name="citation_title" content="On the uses and abuses of logic" />
+  <meta property="og:title" content="On the uses and abuses of logic" />
+  <meta property="twitter:title" content="On the uses and abuses of logic" />
   <meta name="dc.date" content="2023-11-23" />
   <meta name="citation_publication_date" content="2023-11-23" />
   <meta property="article:published_time" content="2023-11-23" />
-  <meta name="dc.modified" content="2023-11-23T14:35:34+00:00" />
-  <meta property="article:modified_time" content="2023-11-23T14:35:34+00:00" />
-  <meta name="dc.language" content="en-US" />
-  <meta name="citation_language" content="en-US" />
+  <meta name="dc.modified" content="2023-11-23T14:43:44+00:00" />
+  <meta property="article:modified_time" content="2023-11-23T14:43:44+00:00" />
+  <meta name="dc.language" content="es" />
+  <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Abraham Olivetti" />
+  <meta name="citation_author_institution" content="Posgrado en Filosofía de la Ciencia, UNAM" />
+  <meta name="citation_author" content="Mar Mac Donald" />
+  <meta name="citation_author_institution" content="Licenciatura en Filosofía, UNAM" />
   <link rel="canonical" href="https://Oiuhukt.github.io/ab-uses-logic/" />
   <meta property="og:url" content="https://Oiuhukt.github.io/ab-uses-logic/" />
   <meta property="twitter:url" content="https://Oiuhukt.github.io/ab-uses-logic/" />
   <meta name="citation_fulltext_html_url" content="https://Oiuhukt.github.io/ab-uses-logic/" />
   <meta name="citation_pdf_url" content="https://Oiuhukt.github.io/ab-uses-logic/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Oiuhukt.github.io/ab-uses-logic/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Oiuhukt.github.io/ab-uses-logic/v/48c7d75849f6fa24b2c2d6a529edc028f1b2d029/" />
-  <meta name="manubot_html_url_versioned" content="https://Oiuhukt.github.io/ab-uses-logic/v/48c7d75849f6fa24b2c2d6a529edc028f1b2d029/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Oiuhukt.github.io/ab-uses-logic/v/48c7d75849f6fa24b2c2d6a529edc028f1b2d029/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Oiuhukt.github.io/ab-uses-logic/v/e43e42f7bd72412a9300f94474e1ed974e5b2cc8/" />
+  <meta name="manubot_html_url_versioned" content="https://Oiuhukt.github.io/ab-uses-logic/v/e43e42f7bd72412a9300f94474e1ed974e5b2cc8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Oiuhukt.github.io/ab-uses-logic/v/e43e42f7bd72412a9300f94474e1ed974e5b2cc8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Oiuhukt.github.io/ab-uses-logic/v/48c7d75849f6fa24b2c2d6a529edc028f1b2d029/))
+([permalink](https://Oiuhukt.github.io/ab-uses-logic/v/e43e42f7bd72412a9300f94474e1ed974e5b2cc8/))
 was automatically generated
-from [Oiuhukt/ab-uses-logic@48c7d75](https://github.com/Oiuhukt/ab-uses-logic/tree/48c7d75849f6fa24b2c2d6a529edc028f1b2d029)
+from [Oiuhukt/ab-uses-logic@e43e42f](https://github.com/Oiuhukt/ab-uses-logic/tree/e43e42f7bd72412a9300f94474e1ed974e5b2cc8)
 on November 23, 2023.
 </em></small>
 
@@ -81,38 +77,29 @@ on November 23, 2023.
 
 
 
-+ **John Doe**
++ **Abraham Olivetti**
   <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [Oiuhukt](https://github.com/Oiuhukt)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Posgrado en Filosofía de la Ciencia, UNAM
   </small>
 
-+ **Jane Roe**
++ **Mar Mac Donald**
   ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [nossaspam](https://github.com/nossaspam)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Licenciatura en Filosofía, UNAM
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/Oiuhukt/ab-uses-logic/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Mar Mac Donald \<mar.azmacdonald@gmail.com\>.
 
 
 :::
