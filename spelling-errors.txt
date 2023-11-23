@@ -4,6 +4,8 @@ aliquip
 amet
 anim
 aute
+buenas
+cambiamos
 Ciencia
 cillum
 commodo
@@ -15,6 +17,7 @@ deserunt
 dolore
 Duis
 eiusmod
+el
 elit
 enim
 esse
@@ -22,6 +25,7 @@ Excepteur
 exercitation
 Filosofía
 fugiat
+hola
 incididunt
 ipsum
 irure
@@ -40,10 +44,12 @@ officia
 Oiuhukt
 Pandoc’s
 pariatur
+por
 Posgrado
 proident
 qui
 quis
+Quitamos
 reprehenderit
 sed
 sint
@@ -54,4 +60,3 @@ UNAM
 velit
 veniam
 voluptate
-wenas
