@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/Oiuhukt/ab-uses-logic/tree/gh-pages) branch hosts the contents of this directory at <https://Oiuhukt.github.io/ab-uses-logic/>.
-The permalink for this webpage version is <https://Oiuhukt.github.io/ab-uses-logic/v/f97fa211d6045b425d3e7ca49d9df929dbc823de/>.
+The permalink for this webpage version is <https://Oiuhukt.github.io/ab-uses-logic/v/73fa09c850bd4050ce6735793e6cf8a661c60f9f/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://Oiuhukt.github.io/ab-uses-logic/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`f97fa211d6045b425d3e7ca49d9df929dbc823de`](https://github.com/Oiuhukt/ab-uses-logic/commit/f97fa211d6045b425d3e7ca49d9df929dbc823de).
+[`73fa09c850bd4050ce6735793e6cf8a661c60f9f`](https://github.com/Oiuhukt/ab-uses-logic/commit/73fa09c850bd4050ce6735793e6cf8a661c60f9f).
