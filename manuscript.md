@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-11-23" />
   <meta name="citation_publication_date" content="2023-11-23" />
   <meta property="article:published_time" content="2023-11-23" />
-  <meta name="dc.modified" content="2023-11-23T14:43:44+00:00" />
-  <meta property="article:modified_time" content="2023-11-23T14:43:44+00:00" />
+  <meta name="dc.modified" content="2023-11-23T15:38:07+00:00" />
+  <meta property="article:modified_time" content="2023-11-23T15:38:07+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,9 +41,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://Oiuhukt.github.io/ab-uses-logic/" />
   <meta name="citation_pdf_url" content="https://Oiuhukt.github.io/ab-uses-logic/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Oiuhukt.github.io/ab-uses-logic/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Oiuhukt.github.io/ab-uses-logic/v/e43e42f7bd72412a9300f94474e1ed974e5b2cc8/" />
-  <meta name="manubot_html_url_versioned" content="https://Oiuhukt.github.io/ab-uses-logic/v/e43e42f7bd72412a9300f94474e1ed974e5b2cc8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Oiuhukt.github.io/ab-uses-logic/v/e43e42f7bd72412a9300f94474e1ed974e5b2cc8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Oiuhukt.github.io/ab-uses-logic/v/f97fa211d6045b425d3e7ca49d9df929dbc823de/" />
+  <meta name="manubot_html_url_versioned" content="https://Oiuhukt.github.io/ab-uses-logic/v/f97fa211d6045b425d3e7ca49d9df929dbc823de/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Oiuhukt.github.io/ab-uses-logic/v/f97fa211d6045b425d3e7ca49d9df929dbc823de/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Oiuhukt.github.io/ab-uses-logic/v/e43e42f7bd72412a9300f94474e1ed974e5b2cc8/))
+([permalink](https://Oiuhukt.github.io/ab-uses-logic/v/f97fa211d6045b425d3e7ca49d9df929dbc823de/))
 was automatically generated
-from [Oiuhukt/ab-uses-logic@e43e42f](https://github.com/Oiuhukt/ab-uses-logic/tree/e43e42f7bd72412a9300f94474e1ed974e5b2cc8)
+from [Oiuhukt/ab-uses-logic@f97fa21](https://github.com/Oiuhukt/ab-uses-logic/tree/f97fa211d6045b425d3e7ca49d9df929dbc823de)
 on November 23, 2023.
 </em></small>
 
@@ -107,7 +107,7 @@ Mar Mac Donald \<mar.azmacdonald@gmail.com\>.
 
 ## Abstract {.page_break_before}
 
-
+wenas
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
